@@ -25,3 +25,7 @@ Because it does not get any correct labels. We only give it customer data (spend
 7. Give two real-world applications of supervised learning and two of unsupervised learning.
 Supervised:
 a. Email spam detection - predicting if an email is spam or not.
+b. Student pass prediction - predicting if a student will pass or fail from hours studied.
+Unsupervised:
+a. YouTube videos - grouping similar articles into topics e.g politics, sports, entertainment without being told the topic. Like YouTube grouping videos you watch.
+b. Music grouping - Music platforms e.g Spotify grouping similar songs into playlists without labels. It finds hidden patterns.
