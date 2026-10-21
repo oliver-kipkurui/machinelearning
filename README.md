@@ -7,10 +7,13 @@ Supervised learning is when we train a model using labeled data. The data has in
 Unsupervised learning is when we train a model using data with no labels where it finds hidden patterns, groups by itself. Example, in our customer project, we only gave spending and visits and the model had to find the 3 customer groups on its own.
 
 3. Explain the difference between supervised and unsupervised learning.
-a. Supervised has labeled data (X and y) while unsupervised has only X.
-b. Supervised goal is to PREDICT like we have done in the exam score while unsupervised goal is to group patterns.
-c. In supervised we can check accuracy while in unsupervised we check clusters.
-d. Supervised example is linear Regression while Unsupervised example: K-Means.
+- Supervised has labeled data (X and y) while unsupervised has only X.
+
+- Supervised goal is to predict like we have done in the exam score while unsupervised goal is to group patterns.
+
+- In supervised we can check accuracy while in unsupervised we check clusters.
+
+- Supervised example is linear Regression while Unsupervised example is K-Means.
 
 4. Why is Linear Regression considered supervised learning?
 Because it learns from labeled data. We give it both the input (study hours) and the correct answer (exam score). It learns the line that best fits this labeled data to predict future scores.
@@ -24,8 +27,13 @@ Because it does not get any correct labels. We only give it customer data (spend
 
 7. Give two real-world applications of supervised learning and two of unsupervised learning.
 Supervised:
-a. Email spam detection - predicting if an email is spam or not.
-b. Student pass prediction - predicting if a student will pass or fail from hours studied.
+- Email spam detection - predicting if an email is spam or not.
+
+- Student pass prediction - predicting if a student will pass or fail from hours studied.
+
+
 Unsupervised:
-a. YouTube videos - grouping similar articles into topics e.g politics, sports, entertainment without being told the topic. Like YouTube grouping videos you watch.
-b. Music grouping - Music platforms e.g Spotify grouping similar songs into playlists without labels. It finds hidden patterns.
+- YouTube videos - grouping similar articles into topics e.g politics, sports, entertainment without being told the topic. Like YouTube grouping videos you watch.
+
+
+- Music grouping - Music platforms e.g Spotify grouping similar songs into playlists without labels. It finds hidden patterns.
